@@ -1,4 +1,4 @@
-# file2kv-aml
+# file2kv-yaml
 
 A command-line tool that converts file contents into key-value YAML format. It reads file paths from stdin and generates individual YAML files with a specific key-value structure.
 
